@@ -12,7 +12,8 @@ style="color:Choose any color; font-family:Choose any font family;">Your Name</a
 ```h
 <div class="container name">
 <a href="👉 Your Github URL 👈" 
-style="color: 👉 Choose any color; 👈 font-family: 👉 Choose any font family; 👈">👉 Your Name 👈</a></div>
+style="color: 👉 Choose any color; 👈 font-family: 👉 Choose any font family; 👈">
+👉 Your Name 👈</a></div>
 ````
 <strong>:three: Make the PR:</strong>
 ```h
