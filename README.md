@@ -2,20 +2,24 @@
 ## :handshake: Open-Repo For Hacktober Fest-2020 contribution :handshake: 
 ## :link: https://kriyptor.github.io/HackWithName/
 ### :clipboard: Steps For The Contribution 
-<strong>:one:  Copy This Tag from index.html file and paste right beneath the mentioned tag (probably on line 14 in index.html):</strong>
+
+<strong>:one: Make a folder with your username:</strong>
+
+
+<strong>:two:  Copy This Tag from index.html file and paste right beneath the mentioned tag (probably on line 14 in index.html):</strong>
 ```h
 <div class="container name">
 <a href="Your Github URL" 
 style="color:Choose any color; font-family:Choose any font family;">Your Name</a></div>
 ``` 
-<strong>:two: Edit the attribute values in the copied tag with your preferred values (Just update values highlighted below):</strong>
+<strong>:three: Edit the attribute values in the copied tag with your preferred values (Just update values highlighted below):</strong>
 ```h
 <div class="container name">
 <a href="👉 Your Github URL 👈" 
 style="color: 👉 Choose any color; 👈 font-family: 👉 Choose any font family; 👈">
 👉 Your Name 👈</a></div>
 ````
-<strong>:three: Make the PR:</strong>
+<strong>:four: Make the PR:</strong>
 ```h
 $ git push origin master
 ```
